@@ -1,6 +1,6 @@
-# Hi 👋, I'm Khemchand Prajapat
+# Hi 👋, I'm Narendra Kumar
 
-### AI & Data Science Engineer | Data Analytics | Power BI | Python | SQL | C++ | Tablue
+### AI & Data Science Engineer | Data Analytics | Frontend Developer | Power BI | Python | SQL | C++ | Tablue
 
 🎓 Final Year B.Tech Student in Artificial Intelligence & Data Science  
 📍 Jaipur, Rajasthan, India
@@ -49,7 +49,7 @@ Power BI • DAX • Data Modeling • Data Visualization • Microsoft Excel
 
 ---
 
-## 📊 Excel Analytics Platform 🔗 [Repository](https://github.com/Narendraparjapat123/FUTURE_DS_02)
+## 📊 Customer retention and Chrun analysis 🔗 [Repository](https://github.com/Narendraparjapat123/FUTURE_DS_02)
 
 - Clean and organize customer data.
 - Analyze churn and retention.
@@ -107,9 +107,9 @@ Excel, Power Pivot, Power BI, DAX
 ## 🏆 Achievements
 
 - ⭐ **HackerRank 5-Star Badge** in Python
-- 🚀 Participated in **Innovastra 2025 Hackathon** and completed in **24-Hour Hackathon**
-- 🚀 Participated in **HACK-AIETM-2024** and completed in **72-Hour Hackathon**
-- 🚀 Participated in a **Wager of Bettles** Debate Competition 
+- 🚀 Participated in **Innovastra 2025 Hackathon** and successfully completed the **24-Hour Hackathon**
+- 🤖 Participated in **HACK-AIETM-2024** and successfully completed the **72-Hour Hackathon**
+- 🗣️ Participated in the **Wager of Battles Debate Competition**
 - 🤖 Completed **Data Science with AI** training through Internshala
 - 📊 Built multiple **AI, Data Analytics, Power BI & Frontend Projects**
 
@@ -126,26 +126,18 @@ Excel, Power Pivot, Power BI, DAX
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://www.bing.com/th/id/OIP.r9cdNOYS_MOEIuuRnAHpJgHaEK?w=199&h=128&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=ImgAns&rm=2" />
-  <img src="https://www.bing.com/th/id/OIP.lflm3p0jvoC4p8c-j8zfJgHaEk?w=208&h=128&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=ImgAns&rm=2"/> 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KhemchandPrajapat&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 [📧 Email](mailto:narendrakumawat82022.com) • 
 [💼 LinkedIn](https://www.linkedin.com/in/narendra-kumar-b08bbb2b0/) • 
 [🐙 GitHub](https://github.com/Narendraparjapat123)
-
+[💻 HackerRank](https://www.hackerrank.com/profile/narendrakumawat5) •
+[🧩 LeetCode](https://leetcode.com/u/Narendra_Kumawat777/)
 ---
 
 ## ⭐ *"Always learning, always building, and always improving."*
