@@ -1,16 +1,151 @@
-## Hi there 👋
+# Hi 👋, I'm Khemchand Prajapat
 
-<!--
-**Narendraparjapat123/Narendraparjapat123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Engineer | Data Analytics | Power BI | Python | SQL | C++ | Tablue
 
-Here are some ideas to get you started:
+🎓 Final Year B.Tech Student in Artificial Intelligence & Data Science  
+📍 Jaipur, Rajasthan, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💡 Passionate about **Data Analytics, Machine Learning, and Frontend Developer**
+- 📊 Skilled in **Power BI, Excel, SQL, Python, Tablue, C++, and FastAPI**
+- 💻 Experienced in building **web applications, dashboards, and REST APIs**
+- 🌱 Currently improving my skills in **Machine Learning, Power BI, and Data Visualization**
+- 🎯 Goal: Build impactful AI and Data Analytics solutions that solve real-world business problems.
+
+---
+
+## 💼 Experience
+
+### 📊  Data Science & Analytics Intern
+
+**Future Interns**
+
+- Cleaned and analysed datasets using Python (Pandas, NumPy) and Excel.  
+- Developed automated Power BI dashboards to monitor business metrics.  
+- Performed EDA and generated reports to support decision-making.  
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 Superstore Power BI Dashboard 🔗 [Repository](https://github.com/Narendraparjapat123/FUTURE_DS_01)
+
+An interactive Power BI dashboard designed to analyze Superstore sales data and generate meaningful business insights through interactive visualizations and KPIs.
+
+### Key Analysis
+
+- 📈 Sales & Profit Performance
+- 📦 Product & Category Analysis
+- 👥 Customer Analysis
+- 🌍 Regional & Geographic Insights
+- 📊 Interactive KPIs and Visualizations
+
+### Technologies
+
+Power BI • DAX • Data Modeling • Data Visualization • Microsoft Excel
+
+---
+
+## 📊 Excel Analytics Platform 🔗 [Repository](https://github.com/Narendraparjapat123/FUTURE_DS_02)
+
+- Clean and organize customer data.
+- Analyze churn and retention.
+- Study customer cohorts and subscription plans.
+- Identify key churn drivers.
+- Present actionable business insights.
+
+### Technologies
+
+Excel, Power Pivot, Power BI, DAX
+
+---
+
+## 📜 Certifications & Badges
+
+- ⭐ **HackerRank – 5 Star Badge**
+  - Earned **5-Star Rating in Python** on HackerRank
+
+- 🐍 **HackerRank – Python (Basic) Certificate**
+  - Demonstrated fundamental Python programming skills.
+
+- 🗄️ **HackerRank – SQL (Basic) Certificate**
+  - Demonstrated fundamental SQL and database querying skills.
+
+- 🗄️ **HackerRank – SQL (Intermediate) Certificate**
+  - Demonstrated intermediate-level SQL querying and data analysis skills.
+
+- 📊 **Power BI Certification – Simplilearn**
+  - Power BI certification completed through Simplilearn.
+  - Microsoft collaboration/recognition badge included with the certification.
+
+- 🤖 **Data Science with AI – Internshala**
+  - Completed Data Science with AI training through Internshala.
+  - Certification associated with **IITM Pravartak** and Internshala.
+
+- 🇮🇳 **Data Science with AI – Skill India & NSDC**
+  - Completed Data Science with AI training/certification under **Skill India & NSDC**.
+
+- 🍃 **MongoDB Basics Certification**
+
+- 📊 **Power BI & Data Analytics**
+
+- 🐍 **Python Programming**
+
+- 🤖 **Machine Learning Fundamentals**
+
+- 📈 **Microsoft Excel for Data Analysis**
+
+- 💻 **Git & GitHub Version Control**
+
+- 🎯 **Data Analytics & Business Intelligence**
+
+---
+
+## 🏆 Achievements
+
+- ⭐ **HackerRank 5-Star Badge** in Python
+- 🚀 Participated in **Innovastra 2025 Hackathon** and completed in **24-Hour Hackathon**
+- 🚀 Participated in **HACK-AIETM-2024** and completed in **72-Hour Hackathon**
+- 🚀 Participated in a **Wager of Bettles** Debate Competition 
+- 🤖 Completed **Data Science with AI** training through Internshala
+- 📊 Built multiple **AI, Data Analytics, Power BI & Frontend Projects**
+
+---
+
+# 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,fastapi,mongodb,mysql,git,github,vscode" alt="Tech Stack" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://www.bing.com/th/id/OIP.r9cdNOYS_MOEIuuRnAHpJgHaEK?w=199&h=128&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=ImgAns&rm=2" />
+  <img src="https://www.bing.com/th/id/OIP.lflm3p0jvoC4p8c-j8zfJgHaEk?w=208&h=128&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=ImgAns&rm=2"/> 
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KhemchandPrajapat&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[📧 Email](mailto:narendrakumawat82022.com) • 
+[💼 LinkedIn](https://www.linkedin.com/in/narendra-kumar-b08bbb2b0/) • 
+[🐙 GitHub](https://github.com/Narendraparjapat123)
+
+---
+
+## ⭐ *"Always learning, always building, and always improving."*
