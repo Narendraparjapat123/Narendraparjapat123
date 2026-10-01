@@ -31,17 +31,19 @@
 
 # 🚀 Featured Projects
 
-## 📊 Superstore Power BI Dashboard 🔗 [Repository](https://github.com/Narendraparjapat123/FUTURE_DS_01)
+## 📊 Online-Retail-Data-Analysis🔗 [Repository](https://github.com/Narendraparjapat123/Online-Retail-Data-Analysis)
 
-An interactive Power BI dashboard designed to analyze Superstore sales data and generate meaningful business insights through interactive visualizations and KPIs.
+This project transforms raw retail transaction data into an interactive business intelligence dashboard.
+
+The data was first cleaned and transformed using Power Query Editor in Power BI, followed by the creation of calculated metrics and interactive visualizations to identify important sales trends and business patterns.
 
 ### Key Analysis
 
-- 📈 Sales & Profit Performance
-- 📦 Product & Category Analysis
-- 👥 Customer Analysis
-- 🌍 Regional & Geographic Insights
-- 📊 Interactive KPIs and Visualizations
+•	Revenue grew approximately 12.02% year-over-year — the first quantified growth signal available in this dashboard.
+•	Nearly 4,000 customers placed about 26,000 orders, generating total sales of $9.73M (~$374 per order, ~6–7 orders per customer).
+•	Revenue is highly seasonal, with Q4 (Sep–Dec) contributing disproportionately and peaking in November at $1.46M.
+•	The UK alone drives ~84% of total revenue; the map visual now makes this concentration visually obvious without reading a table.
+•	Best-selling items remain low-cost, high-volume products rather than premium goods, indicating growth from purchase frequency     rather than big-ticket sales.
 
 ### Technologies
 
@@ -49,8 +51,11 @@ Power BI • DAX • Data Modeling • Data Visualization • Microsoft Excel
 
 ---
 
-## 📊 Customer retention and Chrun analysis 🔗 [Repository](https://github.com/Narendraparjapat123/FUTURE_DS_02)
+## 📊 Customer retention and Chrun analysis 🔗 [Repository](https://github.com/Narendraparjapat123/Customer-Retention-Churn-Analysis)
 
+This project analyzes customer churn and retention behavior for RavenStack, a SaaS/subscription business, using real-world style customer and subscription data.
+
+💡 Key Insights:
 - Clean and organize customer data.
 - Analyze churn and retention.
 - Study customer cohorts and subscription plans.
@@ -59,10 +64,29 @@ Power BI • DAX • Data Modeling • Data Visualization • Microsoft Excel
 
 ### Technologies
 
-Excel, Power Pivot, Power BI, DAX
+Excel, Python, MySQL, Power Pivot, Power BI, DAX
 
 ---
 
+## 📊 Bank Marketing Funnel Analysis 🔗 [Repository](https://github.com/Narendraparjapat123/Bank-Marketing-Funnel-analysis)
+
+This project turns raw call-log data into a funnel analysis and an interactive business intelligence dashboard.
+
+The data was cleaned and transformed in Python (pandas), then loaded into Power BI where DAX measures and interactive visuals were built to identify drop-off points and high-value customer segments.
+
+💡 Key Insights
+Engagement is high, conversion is not — 89% of calls last long enough to count as "engaged," but only 11.7% convert. The biggest drop-off happens after the call connects, not during the greeting.
+Past success predicts future success — customers with a successful previous campaign convert at 64.7%, more than 5x the average.
+Effort is misallocated by month — May receives ~30% of all calls but converts at only 6.7%, while March (52.0%), September (46.5%), October (43.8%) and December (46.7%) convert far better on much lower volume.
+Cellular outperforms other channels — cellular calls convert at 14.9% vs. 4.1% for calls with an unrecorded ("unknown") channel.
+Job and loan status matter — students (28.7%) and retirees (22.8%) convert best; blue-collar workers (7.3%) convert worst. Customers without a housing loan convert more than twice as often as those with one (16.7% vs. 7.7%).
+Diminishing returns on repeat calls — conversion falls steadily from 14.6% (1st attempt) to 3.9% (10+ attempts).
+
+### Technologies
+
+Excel, Python, MySQL, Power Pivot, Power BI, DAX
+
+---
 ## 📜 Certifications & Badges
 
 - ⭐ **HackerRank – 5 Star Badge**
